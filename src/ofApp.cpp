@@ -16,16 +16,16 @@ void ofApp::setup(){
     
     
     
-    int whiteCount  = 0;
-    int blackCount  = 0;
-    float avePosWhiteX = 0;
-    float avePosWhiteY = 0;
-    float xPosForWhitePix = 0;
-    float yPosForWhitePix = 0;
-    float avePosBlackX = 0;
-    float avePosBlackY = 0;
-    float xPosForBlackPix = 0;
-    float yPosForBlackPix = 0;
+    whiteCount  = 0;
+    blackCount  = 0;
+    avePosWhiteX = 0;
+    avePosWhiteY = 0;
+    xPosForWhitePix = 0;
+    yPosForWhitePix = 0;
+    avePosBlackX = 0;
+    avePosBlackY = 0;
+    xPosForBlackPix = 0;
+    yPosForBlackPix = 0;
 
     
     
